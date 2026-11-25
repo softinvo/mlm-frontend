@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../franchiese"
+		},
+		{
+			"path": "../backend"
+		}
+	],
+	"settings": {}
+}
